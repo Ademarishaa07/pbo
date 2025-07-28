@@ -1,3 +1,13 @@
-#PBO  
+Daftar materi yang sudah pernah dipelajari :
+Before ES6 dan ES6
 
-[pw](https://github.com/sismadi/pw/web/index.html)
+Modifier Akses :
+• public
+• private
+• protected
+
+Prinsip-prinsip OOP:
+• encapsulation
+• inheritance
+• polymorphism
+• abstraction
